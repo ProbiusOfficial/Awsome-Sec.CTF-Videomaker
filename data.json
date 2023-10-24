@@ -1,0 +1,71 @@
+{
+    "update": "2023-10-24 18:00:00",
+    "CTF_Person":{
+        "UID_1":{
+            "Bilibili_UID": "",
+            "name":"",
+            "ContentDirection":"",
+            "Content":[
+
+            ]
+        },
+        "UID_2":{
+            "Bilibili_UID": "",
+            "name":"",
+            "ContentDirection":"",
+            "Content":[
+
+            ]
+        }
+    },
+    "CTF_TEAM":{
+        "489643272":{
+            "Bilibili_UID": "489643272",
+            "name":"星盟安全团队",
+            "ContentDirection":"全栈",
+            "Content":[
+                    
+            ]
+        }
+    },
+    "CTF_Official":{
+        "":{
+            "Bilibili_UID": "",
+            "name":"",
+            "ContentDirection":"",
+            "Content":[
+
+            ]
+        }
+    },
+    "SEC_Person":{
+        "":{
+            "Bilibili_UID": "",
+            "name":"",
+            "ContentDirection":"",
+            "Content":[
+
+            ]
+        }
+    },
+    "SEC_TEAM":{
+        "":{
+            "Bilibili_UID": "",
+            "name":"",
+            "ContentDirection":"",
+            "Content":[
+
+            ]
+        }
+    },
+    "SEC_Official":{
+        "":{
+            "Bilibili_UID": "",
+            "name":"",
+            "ContentDirection":"",
+            "Content":[
+
+            ]
+        }
+    }
+}
