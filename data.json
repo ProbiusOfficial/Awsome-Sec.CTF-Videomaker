@@ -1,71 +1,600 @@
 {
-    "update": "2023-10-24 18:00:00",
-    "CTF_Person":{
-        "UID_1":{
-            "Bilibili_UID": "",
-            "name":"",
-            "ContentDirection":"",
-            "Content":[
-
-            ]
+    "GenerateTime": "2023-10-25 16:56:25",
+    "CTF": {
+        "个人向": {
+            "软趴趴の锅边糊": {
+                "Name": "软趴趴の锅边糊",
+                "UID": "475175714",
+                "Category": "全栈",
+                "Content": "",
+                "Notes": ""
+            },
+            "燕无歇莫问归期": {
+                "Name": "燕无歇莫问归期",
+                "UID": "387503419",
+                "Category": "全栈",
+                "Content": "",
+                "Notes": ""
+            },
+            "Nyr4ki": {
+                "Name": "Nyr4ki",
+                "UID": "388609258",
+                "Category": "WEB",
+                "Content": "",
+                "Notes": ""
+            },
+            "国资社畜": {
+                "Name": "国资社畜",
+                "UID": "400157779",
+                "Category": "PWN",
+                "Content": "",
+                "Notes": ""
+            },
+            "芥燃斯基": {
+                "Name": "芥燃斯基",
+                "UID": "479430036",
+                "Category": "PWN",
+                "Content": "",
+                "Notes": ""
+            },
+            "Deregistered": {
+                "Name": "Deregistered",
+                "UID": "8538817",
+                "Category": "PWN",
+                "Content": "",
+                "Notes": ""
+            },
+            "-Protocol-": {
+                "Name": "-Protocol-",
+                "UID": "40691233",
+                "Category": "PWN",
+                "Content": "",
+                "Notes": ""
+            },
+            "rod3r1ck": {
+                "Name": "rod3r1ck",
+                "UID": "3461577038629345",
+                "Category": "PWN",
+                "Content": "",
+                "Notes": ""
+            },
+            "Rotten": {
+                "Name": "Rotten",
+                "UID": "3493278529882882",
+                "Category": "PWN",
+                "Content": "",
+                "Notes": ""
+            },
+            "Mz1不是黑帽子": {
+                "Name": "Mz1不是黑帽子",
+                "UID": "184432814",
+                "Category": "RE",
+                "Content": "",
+                "Notes": ""
+            },
+            "吾爱破解论坛": {
+                "Name": "吾爱破解论坛",
+                "UID": "544451485",
+                "Category": "RE",
+                "Content": "",
+                "Notes": ""
+            },
+            "r0ysue": {
+                "Name": "r0ysue",
+                "UID": "31025974",
+                "Category": "RE",
+                "Content": "",
+                "Notes": ""
+            },
+            "风二西": {
+                "Name": "风二西",
+                "UID": "317479700",
+                "Category": "Crypto",
+                "Content": "",
+                "Notes": ""
+            },
+            "Alice-Bob": {
+                "Name": "Alice-Bob",
+                "UID": "552018206",
+                "Category": "密码学",
+                "Content": "",
+                "Notes": ""
+            },
+            "陈橘mo": {
+                "Name": "陈橘mo",
+                "UID": "12949995",
+                "Category": "MISC",
+                "Content": "",
+                "Notes": ""
+            },
+            "树木今天吃什么": {
+                "Name": "树木今天吃什么",
+                "UID": "483370591",
+                "Category": "MISC",
+                "Content": "",
+                "Notes": ""
+            },
+            "Byxs20": {
+                "Name": "Byxs20",
+                "UID": "183379727",
+                "Category": "MISC",
+                "Content": "",
+                "Notes": ""
+            },
+            "GeekHour": {
+                "Name": "GeekHour",
+                "UID": "102438649",
+                "Category": "基础教程",
+                "Content": "",
+                "Notes": ""
+            },
+            "r00t_1": {
+                "Name": "r00t_1",
+                "UID": "317711147",
+                "Category": "awd",
+                "Content": "",
+                "Notes": ""
+            },
+            "Aynakeya": {
+                "Name": "Aynakeya",
+                "UID": "10003632",
+                "Category": "PWN",
+                "Content": "",
+                "Notes": ""
+            },
+            "水番正文": {
+                "Name": "水番正文",
+                "UID": "39892350",
+                "Category": "RE",
+                "Content": "",
+                "Notes": ""
+            },
+            "米利特瑞先生": {
+                "Name": "米利特瑞先生",
+                "UID": "95382392",
+                "Category": "CTF安全研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "Soryu_Asuka_Rang": {
+                "Name": "Soryu_Asuka_Rang",
+                "UID": "390157099",
+                "Category": "电子数据取证",
+                "Content": "",
+                "Notes": ""
+            }
         },
-        "UID_2":{
-            "Bilibili_UID": "",
-            "name":"",
-            "ContentDirection":"",
-            "Content":[
-
-            ]
+        "战队官号": {
+            "星盟安全团队": {
+                "Name": "星盟安全团队",
+                "UID": "489643272",
+                "Category": "/",
+                "Content": "",
+                "Notes": ""
+            },
+            "PolarCTF": {
+                "Name": "PolarCTF",
+                "UID": "3546382988216798",
+                "Category": "全栈",
+                "Content": "",
+                "Notes": ""
+            },
+            "UKFC安全团队": {
+                "Name": "UKFC安全团队",
+                "UID": "300216438",
+                "Category": "/",
+                "Content": "",
+                "Notes": ""
+            },
+            "r3kapig": {
+                "Name": "r3kapig",
+                "UID": "689293282",
+                "Category": "全栈",
+                "Content": "",
+                "Notes": ""
+            },
+            "Nepnep网络安全": {
+                "Name": "Nepnep网络安全",
+                "UID": "647450178",
+                "Category": "全栈",
+                "Content": "",
+                "Notes": ""
+            },
+            "天枢信息安全协会": {
+                "Name": "天枢信息安全协会",
+                "UID": "652201180",
+                "Category": "全栈",
+                "Content": "",
+                "Notes": "北邮天枢"
+            },
+            "山海关安全团队": {
+                "Name": "山海关安全团队",
+                "UID": "488634146",
+                "Category": "/",
+                "Content": "",
+                "Notes": ""
+            }
+        },
+        "平台官号": {
+            "智慧少年Xenny": {
+                "Name": "智慧少年Xenny",
+                "UID": "187378036",
+                "Category": "/",
+                "Content": "",
+                "Notes": "NSS平台站长"
+            },
+            "CTFShow平台官方账号": {
+                "Name": "CTFShow平台官方账号",
+                "UID": "626823956",
+                "Category": "/",
+                "Content": "",
+                "Notes": ""
+            },
+            "青少年CTF训练平台官方账号": {
+                "Name": "青少年CTF训练平台官方账号",
+                "UID": "2066710972",
+                "Category": "/",
+                "Content": "",
+                "Notes": ""
+            },
+            "XCTF官方账号": {
+                "Name": "XCTF官方账号",
+                "UID": "519244727",
+                "Category": "/",
+                "Content": "",
+                "Notes": "亚洲规模最大、水平最高、影响力最大的网络安全联赛"
+            }
         }
     },
-    "CTF_TEAM":{
-        "489643272":{
-            "Bilibili_UID": "489643272",
-            "name":"星盟安全团队",
-            "ContentDirection":"全栈",
-            "Content":[
-                    
-            ]
-        }
-    },
-    "CTF_Official":{
-        "":{
-            "Bilibili_UID": "",
-            "name":"",
-            "ContentDirection":"",
-            "Content":[
-
-            ]
-        }
-    },
-    "SEC_Person":{
-        "":{
-            "Bilibili_UID": "",
-            "name":"",
-            "ContentDirection":"",
-            "Content":[
-
-            ]
-        }
-    },
-    "SEC_TEAM":{
-        "":{
-            "Bilibili_UID": "",
-            "name":"",
-            "ContentDirection":"",
-            "Content":[
-
-            ]
-        }
-    },
-    "SEC_Official":{
-        "":{
-            "Bilibili_UID": "",
-            "name":"",
-            "ContentDirection":"",
-            "Content":[
-
-            ]
+    "安全方向": {
+        "个人向": {
+            "xiaodisec": {
+                "Name": "xiaodisec",
+                "UID": "346375059",
+                "Category": "安全入门到精通",
+                "Content": "",
+                "Notes": ""
+            },
+            "yuppt": {
+                "Name": "yuppt",
+                "UID": "50908119",
+                "Category": "红队方向",
+                "Content": "",
+                "Notes": ""
+            },
+            "YakProject": {
+                "Name": "YakProject",
+                "UID": "437503777",
+                "Category": "Web安全、Yakit",
+                "Content": "",
+                "Notes": "Yakit作者"
+            },
+            "德勒危险": {
+                "Name": "德勒危险",
+                "UID": "26465397",
+                "Category": "红队方向",
+                "Content": "",
+                "Notes": ""
+            },
+            "Yihsiwei-渣渣": {
+                "Name": "Yihsiwei-渣渣",
+                "UID": "353948151",
+                "Category": "红队方向",
+                "Content": "",
+                "Notes": ""
+            },
+            "黑兔由帝": {
+                "Name": "黑兔由帝",
+                "UID": "351510324",
+                "Category": "攻防渗透",
+                "Content": "",
+                "Notes": ""
+            },
+            "簌澪SuMio": {
+                "Name": "簌澪SuMio",
+                "UID": "5140781",
+                "Category": "靶机",
+                "Content": "",
+                "Notes": ""
+            },
+            "Zacarx": {
+                "Name": "Zacarx",
+                "UID": "123895286",
+                "Category": "靶机",
+                "Content": "",
+                "Notes": ""
+            },
+            "Zer0-hex": {
+                "Name": "Zer0-hex",
+                "UID": "102541140",
+                "Category": "OSCP",
+                "Content": "",
+                "Notes": ""
+            },
+            "AKA_航": {
+                "Name": "AKA_航",
+                "UID": "246840998",
+                "Category": "OSCP",
+                "Content": "",
+                "Notes": ""
+            },
+            "不懂安全的阿浪": {
+                "Name": "不懂安全的阿浪",
+                "UID": "3546377619508015",
+                "Category": "安全开发",
+                "Content": "",
+                "Notes": ""
+            },
+            "ExpLang_Cn": {
+                "Name": "ExpLang_Cn",
+                "UID": "392628031",
+                "Category": "安全开发",
+                "Content": "",
+                "Notes": ""
+            },
+            "Fuxk-Hack": {
+                "Name": "Fuxk-Hack",
+                "UID": "375515990",
+                "Category": "前沿安全",
+                "Content": "",
+                "Notes": ""
+            },
+            "n1ar4": {
+                "Name": "n1ar4",
+                "UID": "1106751850",
+                "Category": "Java安全研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "白日梦组长": {
+                "Name": "白日梦组长",
+                "UID": "2142877265",
+                "Category": "Java安全研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "Alice-Bob": {
+                "Name": "Alice-Bob",
+                "UID": "552018206",
+                "Category": "密码学研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "Wker666": {
+                "Name": "Wker666",
+                "UID": "394172563",
+                "Category": "安全研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "zhxknb1": {
+                "Name": "zhxknb1",
+                "UID": "349188894",
+                "Category": "WEB安全研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "suxyds-鎏": {
+                "Name": "suxyds-鎏",
+                "UID": "494685916",
+                "Category": "免杀方向安全研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "谢公子学安全": {
+                "Name": "谢公子学安全",
+                "UID": "24536961",
+                "Category": "攻防渗透",
+                "Content": "",
+                "Notes": ""
+            },
+            "非虫-软件安全": {
+                "Name": "非虫-软件安全",
+                "UID": "6013655",
+                "Category": "软件安全研究",
+                "Content": "",
+                "Notes": ""
+            }
+        },
+        "安全团队": {
+            "5号黯区红队攻防": {
+                "Name": "5号黯区红队攻防",
+                "UID": "348678604",
+                "Category": "红队方向",
+                "Content": "",
+                "Notes": ""
+            },
+            "红队攻防实验室": {
+                "Name": "红队攻防实验室",
+                "UID": "1175020871",
+                "Category": "红队方向",
+                "Content": "",
+                "Notes": ""
+            },
+            "天工开物实验室": {
+                "Name": "天工开物实验室",
+                "UID": "479236595",
+                "Category": "攻防渗透",
+                "Content": "",
+                "Notes": ""
+            },
+            "隐雾SEC": {
+                "Name": "隐雾SEC",
+                "UID": "503070487",
+                "Category": "攻防渗透",
+                "Content": "",
+                "Notes": ""
+            },
+            "dada安全研究所": {
+                "Name": "dada安全研究所",
+                "UID": "3493263229061351",
+                "Category": "代码审计",
+                "Content": "",
+                "Notes": ""
+            },
+            "闻道安全": {
+                "Name": "闻道安全",
+                "UID": "383770377",
+                "Category": "Java代码审计",
+                "Content": "",
+                "Notes": ""
+            },
+            "逆向老钱": {
+                "Name": "逆向老钱",
+                "UID": "410021235",
+                "Category": "逆向安全研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "红队笔记": {
+                "Name": "红队笔记",
+                "UID": "491748397",
+                "Category": "靶机/红队",
+                "Content": "",
+                "Notes": ""
+            },
+            "ZackSecurity": {
+                "Name": "ZackSecurity",
+                "UID": "35657310",
+                "Category": "Web安全研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "大米粒学习Web3": {
+                "Name": "大米粒学习Web3",
+                "UID": "8759932",
+                "Category": "Web3安全研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "D丝黑客": {
+                "Name": "D丝黑客",
+                "UID": "3493120597559785",
+                "Category": "靶机OSCP",
+                "Content": "",
+                "Notes": ""
+            },
+            "红队摸鱼第一人": {
+                "Name": "红队摸鱼第一人",
+                "UID": "1067016511",
+                "Category": "红队方向",
+                "Content": "",
+                "Notes": ""
+            },
+            "二进制科学": {
+                "Name": "二进制科学",
+                "UID": "500303",
+                "Category": "二进制研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "大福安全": {
+                "Name": "大福安全",
+                "UID": "1496246177",
+                "Category": "渗透测试、靶机",
+                "Content": "",
+                "Notes": ""
+            },
+            "黑战士安全": {
+                "Name": "黑战士安全",
+                "UID": "496627343",
+                "Category": "Web安全",
+                "Content": "",
+                "Notes": ""
+            },
+            "绿导师原谅你了": {
+                "Name": "绿导师原谅你了",
+                "UID": "202224425",
+                "Category": "操作系统原理",
+                "Content": "",
+                "Notes": ""
+            },
+            "农夫众信": {
+                "Name": "农夫众信",
+                "UID": "1759206997",
+                "Category": "渗透测试",
+                "Content": "",
+                "Notes": ""
+            },
+            "可厉害的土豆": {
+                "Name": "可厉害的土豆",
+                "UID": "253413704",
+                "Category": "密码学",
+                "Content": "",
+                "Notes": ""
+            },
+            "逆向工程师Reverse": {
+                "Name": "逆向工程师Reverse",
+                "UID": "14195062",
+                "Category": "软件安全逆向",
+                "Content": "",
+                "Notes": ""
+            },
+            "r00tk1t": {
+                "Name": "r00tk1t",
+                "UID": "267460290",
+                "Category": "二进制安全",
+                "Content": "",
+                "Notes": ""
+            },
+            "crowsec": {
+                "Name": "crowsec",
+                "UID": "29903122",
+                "Category": "攻防渗透",
+                "Content": "",
+                "Notes": ""
+            },
+            "赵庆明老师": {
+                "Name": "赵庆明老师",
+                "UID": "136991419",
+                "Category": "软件安全逆向",
+                "Content": "",
+                "Notes": ""
+            },
+            "MS08067安全实验室": {
+                "Name": "MS08067安全实验室",
+                "UID": "396298765",
+                "Category": "攻防渗透",
+                "Content": "",
+                "Notes": ""
+            },
+            "DeeLMind": {
+                "Name": "DeeLMind",
+                "UID": "282616786",
+                "Category": "安全研究全栈",
+                "Content": "",
+                "Notes": ""
+            }
+        },
+        "企业官号": {
+            "看雪学苑": {
+                "Name": "看雪学苑",
+                "UID": "525929512",
+                "Category": "二进制安全研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "知道创宇404实验室": {
+                "Name": "知道创宇404实验室",
+                "UID": "1300900875",
+                "Category": "安全研究",
+                "Content": "",
+                "Notes": ""
+            },
+            "FOFA-bot": {
+                "Name": "FOFA-bot",
+                "UID": "1705181418",
+                "Category": "fofa官方",
+                "Content": "",
+                "Notes": ""
+            },
+            "漏洞银行BUGBANK": {
+                "Name": "漏洞银行BUGBANK",
+                "UID": "179001398",
+                "Category": "安全研究",
+                "Content": "",
+                "Notes": ""
+            }
         }
     }
 }
