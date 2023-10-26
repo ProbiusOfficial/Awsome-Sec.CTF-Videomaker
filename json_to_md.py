@@ -13,13 +13,14 @@ def extract_top_videos(content_data):
 def format_videos_to_md(top_3_videos, latest_5_videos):
     md_content = "Top 3:<br />"
     for video in top_3_videos:
-        md_content += f"[播放量 {video['play']} \| {video['title']}](https://www.bilibili.com/video/{video['bvid']})<br />"
+        md_content += f"[播放量 {video['play']} | {video['title']}](https://www.bilibili.com/video/{video['bvid']})<br />"
     
     md_content += "最近更新：<br />"
     for video in latest_5_videos:
         md_content += f"[{video['title']}](https://www.bilibili.com/video/{video['bvid']})<br />"
     
     print (md_content)
+    md_content = md_content.replace("|", "\|")
     return md_content
 
 def update_markdown_with_data(data, markdown_template):
